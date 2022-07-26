@@ -32,7 +32,7 @@ fun SummonerSpellTimerComponent(
         if (currentTime > 0 && isRunning) {
             delay(1000L)
             currentTime -= 1
-        } else if (currentTime < 0) {
+        } else if (currentTime <= 0) {
             currentTime = totalTimer
             isRunning = !isRunning
         }
