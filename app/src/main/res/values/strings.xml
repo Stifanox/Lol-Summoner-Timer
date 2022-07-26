@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Summoner Timer</string>
+    <string name="warning_message_empty">Nazwa summonera nie może być pusta</string>
+    <string name="search">Szukaj</string>
+    <string name="game_not_found">Nie znaleziono gry</string>
+    <string name="summoner_not_found">Nie znaleziono summonera</string>
+    <string name="search_again">Wyszukaj jeszcze raz</string>
+    <string name="choose_server">Wybierz server</string>
+    <string name="exception_io_error">Błąd w konwersji danych</string>
+    <string name="exception_http_error">Błąd połączenia. Sprawdź czy masz połączenie z internetem</string>
+    <string name="type_summoner">Wpisz nazwę summonera</string>
+</resources>
